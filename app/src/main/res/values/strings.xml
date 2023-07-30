@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DudukAja</string>
+    <string name="hallo_selamat_datang">Hallo Selamat Datang</string>
+    <string name="Akan">\ Reminder in\ </string>
+    <string name="dalam">\ Second \ </string>
+    <string name="penjelasan">Aplikasi yang kami buat bernama DudukAja, sesuai dengan namanya aplikasi ini memiliki fungsi sebagai pengingat seseorang dikarenakan duduk terlalu lama..</string>
+</resources>
